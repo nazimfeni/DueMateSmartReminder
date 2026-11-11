@@ -1,0 +1,54 @@
+{
+  "@@locale": "bn",
+  "appName": "DueMate",
+
+  "remindersTitle": "রিমাইন্ডার",
+  "settingsTitle": "সেটিংস",
+
+  "addReminder": "নতুন রিমাইন্ডার",
+  "editReminder": "রিমাইন্ডার সম্পাদনা",
+
+  "titleLabel": "শিরোনাম",
+  "descriptionLabel": "বিবরণ",
+  "categoryLabel": "বিভাগ",
+  "dueDateLabel": "নির্ধারিত তারিখ",
+  "amountLabel": "পরিমাণ",
+  "currencyLabel": "মুদ্রা",
+  "recurringLabel": "পুনরাবৃত্তি",
+  "notifyBeforeLabel": "নির্ধারিত তারিখের আগে জানান",
+
+  "saveButton": "সংরক্ষণ করুন",
+  "cancelButton": "বাতিল",
+  "deleteButton": "মুছুন",
+
+  "confirmDeleteTitle": "রিমাইন্ডার মুছুন",
+  "confirmDeleteMessage": "এই রিমাইন্ডার এবং এর সমস্ত নোটিফিকেশন সময়সূচী স্থায়ীভাবে মুছে যাবে।",
+
+  "categoryPayment": "পেমেন্ট",
+  "categoryDocument": "ডকুমেন্ট",
+  "categorySubscription": "সাবস্ক্রিপশন",
+  "categoryWarranty": "ওয়ারেন্টি",
+
+  "statusDueToday": "আজ মেয়াদ শেষ",
+  "statusOverdue": "{days} দিন আগে মেয়াদ শেষ",
+  "statusUpcoming": "{days} দিনের মধ্যে মেয়াদ শেষ",
+  "statusCompleted": "সম্পন্ন",
+
+  "emptyStateTitle": "এখনো কোনো রিমাইন্ডার নেই",
+  "emptyStateSubtitle": "প্রথম রিমাইন্ডার যোগ করতে + ট্যাপ করুন",
+
+  "backupTitle": "ব্যাকআপ ও পুনরুদ্ধার",
+  "exportJson": "JSON হিসেবে এক্সপোর্ট",
+  "exportCsv": "CSV হিসেবে এক্সপোর্ট",
+  "importMerge": "ইম্পোর্ট ও মার্জ করুন",
+  "importReplace": "ইম্পোর্ট ও প্রতিস্থাপন করুন",
+  "deleteAllData": "সমস্ত ডেটা মুছুন",
+
+  "themeLabel": "থিম",
+  "themeSystem": "সিস্টেম",
+  "themeLight": "লাইট",
+  "themeDark": "ডার্ক",
+
+  "languageLabel": "ভাষা",
+  "privacyPolicyLabel": "গোপনীয়তা নীতি"
+}

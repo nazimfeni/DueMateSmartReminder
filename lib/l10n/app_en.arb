@@ -1,0 +1,130 @@
+{
+  "@@locale": "en",
+  "appName": "DueMate",
+  "@appName": { "description": "Application name" },
+
+  "remindersTitle": "Reminders",
+  "@remindersTitle": { "description": "Title of the reminders list page" },
+
+  "settingsTitle": "Settings",
+  "@settingsTitle": { "description": "Title of the settings page" },
+
+  "addReminder": "New Reminder",
+  "@addReminder": { "description": "Label for new reminder button/page" },
+
+  "editReminder": "Edit Reminder",
+  "@editReminder": { "description": "Title for edit reminder page" },
+
+  "titleLabel": "Title",
+  "@titleLabel": {},
+
+  "descriptionLabel": "Description",
+  "@descriptionLabel": {},
+
+  "categoryLabel": "Category",
+  "@categoryLabel": {},
+
+  "dueDateLabel": "Due Date",
+  "@dueDateLabel": {},
+
+  "amountLabel": "Amount",
+  "@amountLabel": {},
+
+  "currencyLabel": "Currency",
+  "@currencyLabel": {},
+
+  "recurringLabel": "Recurring",
+  "@recurringLabel": {},
+
+  "notifyBeforeLabel": "Notify me before due date",
+  "@notifyBeforeLabel": {},
+
+  "saveButton": "Save",
+  "@saveButton": {},
+
+  "cancelButton": "Cancel",
+  "@cancelButton": {},
+
+  "deleteButton": "Delete",
+  "@deleteButton": {},
+
+  "confirmDeleteTitle": "Delete Reminder",
+  "@confirmDeleteTitle": {},
+
+  "confirmDeleteMessage": "This reminder and all its notification schedules will be permanently deleted.",
+  "@confirmDeleteMessage": {},
+
+  "categoryPayment": "Payment",
+  "@categoryPayment": {},
+
+  "categoryDocument": "Document",
+  "@categoryDocument": {},
+
+  "categorySubscription": "Subscription",
+  "@categorySubscription": {},
+
+  "categoryWarranty": "Warranty",
+  "@categoryWarranty": {},
+
+  "statusDueToday": "Due today",
+  "@statusDueToday": {},
+
+  "statusOverdue": "Overdue by {days} day(s)",
+  "@statusOverdue": {
+    "placeholders": {
+      "days": { "type": "int" }
+    }
+  },
+
+  "statusUpcoming": "Due in {days} day(s)",
+  "@statusUpcoming": {
+    "placeholders": {
+      "days": { "type": "int" }
+    }
+  },
+
+  "statusCompleted": "Completed",
+  "@statusCompleted": {},
+
+  "emptyStateTitle": "No reminders yet",
+  "@emptyStateTitle": {},
+
+  "emptyStateSubtitle": "Tap + to add your first reminder",
+  "@emptyStateSubtitle": {},
+
+  "backupTitle": "Backup & Restore",
+  "@backupTitle": {},
+
+  "exportJson": "Export as JSON",
+  "@exportJson": {},
+
+  "exportCsv": "Export as CSV",
+  "@exportCsv": {},
+
+  "importMerge": "Import & Merge",
+  "@importMerge": {},
+
+  "importReplace": "Import & Replace",
+  "@importReplace": {},
+
+  "deleteAllData": "Delete All Data",
+  "@deleteAllData": {},
+
+  "themeLabel": "Theme",
+  "@themeLabel": {},
+
+  "themeSystem": "System",
+  "@themeSystem": {},
+
+  "themeLight": "Light",
+  "@themeLight": {},
+
+  "themeDark": "Dark",
+  "@themeDark": {},
+
+  "languageLabel": "Language",
+  "@languageLabel": {},
+
+  "privacyPolicyLabel": "Privacy Policy",
+  "@privacyPolicyLabel": {}
+}

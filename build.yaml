@@ -1,0 +1,9 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          # Use the new query builder API
+          sql:
+            dialect: sqlite
+          generate_connect_constructor: false
