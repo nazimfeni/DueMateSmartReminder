@@ -4,6 +4,11 @@
 .flutter-plugins-dependencies
 build/
 
+# Signing — never commit these
+android/key.properties
+android/*.jks
+*.keystore
+
 # Android
 *.iml
 .gradle
